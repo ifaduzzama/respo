@@ -1,0 +1,107 @@
+/* modile.responsib */
+@media only screen and (max-width:500px){
+    body{
+        background-color: red;
+    }
+    header{
+        background-color:rgb(239, 225, 227);
+        width: 100%;
+        }
+    
+    nav{
+        /* margin-left: 2%; */
+        align-items: center;
+        justify-content: center;
+     }
+      ul li{
+        padding:0%;
+        float: none;
+        margin-top:10%;
+        margin-right: 5%;
+    }
+      ul li a{
+        font-size: 20px;
+      }
+    .logo{
+        margin-bottom: 0%;
+        /* text-align: center; */
+        padding-right: 30%;
+    }
+ .recetas{
+    margin-top: 3%;
+ }
+
+
+ .box{
+    
+ }
+ .img img{
+  height: 100px;
+  width: 100px;
+ }
+ .box1{}
+
+ .part{}
+ 
+ .part1{
+
+ }
+ .part1 img{
+  height: 100px;
+  width: 100px;
+ }
+
+ /*  */
+ /*  */
+.new h2{
+  font-size: 20px;
+  margin-left: 0%;
+  text-align: center;
+ }
+.new1{
+  display: flex;
+  align-items: center; 
+}
+.new1 p{
+  padding-left: 0%;
+}
+.don-img img{
+padding-left: 5%;
+}
+  
+/*  */
+ /*  */
+ .big{
+  /* width: 100%; */
+   /* flex-flow:wrap row;  */
+   margin-left: 0%;
+   padding-left: 30px;
+   width: 380px;
+   background-color: rgb(157, 29, 29);
+ }
+ .big1{
+  margin-right: 1%;
+  }
+ .big1 img{
+  height: 50px;
+  width: 50px;
+ }
+ .big button{
+  width: 60px;
+  height: 30px;
+ }
+ h1{
+  
+  font-size: 20px;
+ }
+ /*  */
+ .esc{
+  text-align:left;
+ }
+ .don{}
+ .don-img img{
+  /* display: none; */
+  height: 140px;
+  width: 140px;
+ }
+}
